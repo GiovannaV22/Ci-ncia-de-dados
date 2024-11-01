@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
 
 :root {
     --bg-color: rgb(247, 123, 195);
     --primary-color: #ffffff;
     --secondary-color: #0a125e;
-    --font: "Nunito Sans", sans-serif;
+    --font: "Itim", sans-serif;
 }
 
 body {
